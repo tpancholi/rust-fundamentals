@@ -14,3 +14,16 @@ path = "src/bin/data_types.rs"
 [[bin]]
 name = "functions"
 path = "src/bin/functions.rs"
+
+[[bin]]
+name = "conditionals"
+path = "src/bin/conditionals.rs"
+
+[[bin]]
+name = "shadowing"
+path = "src/bin/shadowing.rs"
+
+
+[[bin]]
+name = "basic_loops"
+path = "src/bin/basic_loops.rs"
