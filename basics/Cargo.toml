@@ -1,0 +1,16 @@
+[package]
+name = "basics"
+version = "0.1.0"
+edition = "2024"
+
+[[bin]]
+name = "variables"
+path = "src/bin/variables.rs"
+
+[[bin]]
+name = "data_types"
+path = "src/bin/data_types.rs"
+
+[[bin]]
+name = "functions"
+path = "src/bin/functions.rs"
