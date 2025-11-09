@@ -27,3 +27,15 @@ path = "src/bin/shadowing.rs"
 [[bin]]
 name = "basic_loops"
 path = "src/bin/basic_loops.rs"
+
+[[bin]]
+name = "loop_control"
+path = "src/bin/loop_control.rs"
+
+[[bin]]
+name = "match_control"
+path = "src/bin/match_control.rs"
+
+[[bin]]
+name = "panic_error"
+path = "src/bin/panic_error.rs"
